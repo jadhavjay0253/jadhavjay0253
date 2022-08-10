@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Jay Jadhav</h1>
-<h3 align="center">I'm a Student, Developer, Learner!</h3>
+<h3 align="center">I'm a Learner and Developer!</h3>
 
 - 💻 I’m currently learning about **JavaScript**
 
